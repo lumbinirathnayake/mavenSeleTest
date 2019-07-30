@@ -1,0 +1,9 @@
+<!DOCTYPE suite SYSTEM "http://testng.org/testng-1.0.dtd" >
+
+<suite name="My Sysco Shopping - Web BFF" configfailurepolicy="continue">
+    <test name="All Tests">
+        <classes>
+            <class name="testPack.testrun"/>
+        </classes>
+    </test>
+</suite>

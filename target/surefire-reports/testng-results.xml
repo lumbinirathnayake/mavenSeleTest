@@ -1,0 +1,25 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<testng-results skipped="0" failed="0" ignored="0" total="1" passed="1">
+  <reporter-output>
+  </reporter-output>
+  <suite name="My Sysco Shopping - Web BFF" duration-ms="5077" started-at="2019-07-30T10:18:13Z" finished-at="2019-07-30T10:18:18Z">
+    <groups>
+    </groups>
+    <test name="All Tests" duration-ms="5077" started-at="2019-07-30T10:18:13Z" finished-at="2019-07-30T10:18:18Z">
+      <class name="testPack.testrun">
+        <test-method status="PASS" signature="beforeTest()[pri:0, instance:testPack.testrun@35f983a6]" name="beforeTest" is-config="true" duration-ms="907" started-at="2019-07-30T10:18:13Z" finished-at="2019-07-30T10:18:14Z">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- beforeTest -->
+        <test-method status="PASS" signature="testEasy()[pri:0, instance:testPack.testrun@35f983a6]" name="testEasy" duration-ms="4086" started-at="2019-07-30T10:18:14Z" finished-at="2019-07-30T10:18:18Z">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- testEasy -->
+        <test-method status="PASS" signature="afterTest()[pri:0, instance:testPack.testrun@35f983a6]" name="afterTest" is-config="true" duration-ms="70" started-at="2019-07-30T10:18:18Z" finished-at="2019-07-30T10:18:18Z">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- afterTest -->
+      </class> <!-- testPack.testrun -->
+    </test> <!-- All Tests -->
+  </suite> <!-- My Sysco Shopping - Web BFF -->
+</testng-results>
