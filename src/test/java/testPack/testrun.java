@@ -21,7 +21,7 @@ public class testrun {
 
     @BeforeTest
     public void beforeTest() {
-        System.setProperty("webdriver.chrome.driver", "chromedriver");
+        System.setProperty("webdriver.chrome.driver", "Lib/chromedriver");
         driver = new ChromeDriver();
     }
 
