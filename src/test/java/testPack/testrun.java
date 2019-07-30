@@ -16,7 +16,7 @@ public class testrun {
     public void testEasy() {
         driver.get("http://demo.guru99.com/test/guru99home/");
         String title = driver.getTitle();
-        Assert.assertTrue(title.contains("Demo Guru99 Page"));
+        Assert.assertTrue(title.contains("Demo Guru99 Page1"));
     }
 
     @BeforeTest
